@@ -2,9 +2,8 @@ body{
   background-color: fuchsia;
   padding: 20px;
   color: white;
+  position: relative;
 }
-
-
 
 /* NAV STYLING */
 
@@ -26,11 +25,11 @@ thead{
   background-color:red;
 }
 tbody{
-  background-color:orange;
+  background-color:gray;
 }
 tr{
   border: 2px solid green;
 }
 .links,.links:visited{
- color: white;
+ color: white 5px;
 }
